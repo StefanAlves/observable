@@ -1,0 +1,22 @@
+{
+  "name": "observable",
+  "version": "1.0.0",
+  "description": "Observable library written in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StefanAlves/observable.git"
+  },
+  "keywords": [
+    "observable"
+  ],
+  "author": "Stefan Alves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StefanAlves/observable/issues"
+  },
+  "homepage": "https://github.com/StefanAlves/observable#readme"
+}
